@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham0507
+- 👋 Hi, I’m SOHAM MHATRE
 - 👀 I’m interested in Machine Learning, WebDev, UI/UX and Power BI
 - 🌱 I’m currently learning Computer Engineering(3rd yr)
 - 💞️ I’m looking to collaborate on projects Related to WebDev and AIML
